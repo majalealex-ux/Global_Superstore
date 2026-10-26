@@ -212,4 +212,3 @@ Only include files in this list as completed deliverables once they have actuall
 This project demonstrates an end-to-end business intelligence workflow, from data quality assessment and transformation to data modeling, KPI development, interactive reporting, and business recommendations.
 
 The resulting dashboard is intended to help stakeholders explore performance from multiple perspectives and use evidence to guide decisions on sales, profitability, customers, products, and operations.
-
